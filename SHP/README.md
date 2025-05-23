@@ -16,3 +16,7 @@ This folder contains a set of shapefiles of a single "*Geographic Information Sy
 - Exported from QGIS version 3.34.7-Prizren.
 - The data links the postcodes from Spain with the average incomes of the inhabitants from each Spanish postal region, which has been put together to use it in the data preprocesing of this project.
 - The CSV file is provided for convenience (this data is used in R) and does not include geometry data.
+
+![CP - Renta](https://github.com/user-attachments/assets/72580250-b907-4139-b921-c14ee9d0a7bf)
+Appearance of the QGIS project whose layer has been exported.
+
